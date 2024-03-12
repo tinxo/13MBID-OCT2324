@@ -7,8 +7,9 @@ Plantilla de repositorio para la asignatura 13MBID.
 Universidad Internacional de Valencia*  
 
 Prof: Dr. Horacio Kuna  
-Dictado: OCT23-24
+Dictado: OCT23-24  
 
+Inicio de la Actividad Práctica I : 12/marzo/2024  
 Alumno: Martín Rey
 
 ## Descripción del contenido
