@@ -10,7 +10,7 @@ Prof: Dr. Horacio Kuna
 Dictado: OCT23-24  
 
 Inicio de la Actividad Práctica I : 12/marzo/2024  
-Alumno: Martín Rey
+**Repositorio de desarrollo de la práctica de la asignatura**
 
 ## Descripción del contenido
 
