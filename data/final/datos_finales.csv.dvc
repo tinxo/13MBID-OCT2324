@@ -1,0 +1,5 @@
+outs:
+- md5: 02988268fc213d843bc46234caa8d1d9
+  size: 1458225
+  hash: md5
+  path: datos_finales.csv
